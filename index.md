@@ -1,6 +1,9 @@
 ---
 layout: index
 members:
+- mugshot: "/uploads/alex.jpg"
+  name: Alex Kennedy
+  title: VFX artist
 - mugshot: "/uploads/image-1.jpg"
   name: Juanita Villalobos
   title: Creative Director / Project Manager
