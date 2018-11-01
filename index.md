@@ -17,8 +17,8 @@ members:
   name: Aiko Dayap
   title: Producer | Filmmaker
 main_text_area: ''
-
 ---
+
 ### Get more done than you could alone
 
 We are a network of creatives that complement each other's skills for the benefit of the   individual as well as the whole. Through collaboration and feedback we share resources, insights, leads ands tools to brings concepts to life.
