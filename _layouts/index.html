@@ -64,7 +64,7 @@
         {% for member in page.members %}
           <div class="mugshot">
             <div class="img-container">
-              <image src="{{ site.baseurl}}/{{ member.mugshot }}"/>
+              <image src="{{ member.mugshot }}"/>
             </div>
             <a href="{{ member.url }}" target="_blank">
               <h4>{{ member.name }}</h4>
