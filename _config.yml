@@ -14,7 +14,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 disqus: 
 google_analytics: 
 url: 
-baseurl: "/once-collective"
+baseurl: "/"
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
