@@ -1,9 +1,9 @@
 ---
-layout: page
 title: About
 permalink: "/about/"
-
+layout: page
 ---
+
 Wanna get in touch?
 
 ### More Information
