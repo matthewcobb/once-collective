@@ -1,15 +1,17 @@
 ---
+layout: page
 title: About
 permalink: "/about/"
-layout: page
----
 
+---
 Wanna get in touch?
 
-### More Information
+### How do we work
 
-A place to include any other types of information that you'd like to include about the collective.
+Once collective is all about connection. We provide those that work in the network everything they could need to accomplish their long term goals. 
 
-### Contact me
+We rise together.
 
-[email@domain.com](mailto:email@domain.com)
+### Contact us
+
+oncecollective@gmail.com
