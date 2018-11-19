@@ -11,10 +11,10 @@ collections:
 name: Once Collective
 description: A collective of people
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-disqus: 
-google_analytics: 
-url: 
-baseurl: "/once-collective"
+disqus:
+google_analytics:
+url:
+baseurl: ""
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
