@@ -40,8 +40,8 @@ Honest feedback keeps us growing in every project we do.
 
 ### Content for a new landscape
 
-**Ears are to the floor. Fingers on the pulse.**
+**Ears to the floor. Fingers on the pulse.**
 
-We take elements of psychology, the latest marketing strategies and emerging technologies to inform our process of film-making. 
+We take elements of psychology, latest marketing strategies and emerging technologies to inform our process of film-making. 
 
-Concept films are the bridge from imagination to reality.
+Our concept films bridge imagination to reality.
