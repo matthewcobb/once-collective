@@ -6,7 +6,7 @@ members:
   title: Director
 - mugshot: "/uploads/image-1.jpg"
   name: Juanita Villalobos
-  title: Creative Director / Project Manager
+  title: Project Manager
 - mugshot: "/uploads/terrace.jpg"
   name: Marco Naletto
   title: 'Composer | Sound Engineer '
