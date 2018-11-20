@@ -40,7 +40,7 @@ Honest feedback keeps us growing in every project we do.
 
 ### Content for a new landscape
 
-We keep our ears to the floor and fingers on the pulse of tomorrow. 
+**Our ears are to the floor. And our fingers on the pulse.**
 
 We take elements of psychology, the latest marketing strategies and emerging technologies to inform our process of film-making. 
 
