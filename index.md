@@ -13,31 +13,35 @@ members:
 - mugshot: "/uploads/ladder.jpg"
   name: Federico Lanzarotta
   title: Filmmaker | Photographer | Designer
-- mugshot: "/uploads/aiko.jpg"
-  name: Aiko Dayap
-  title: Producer | Filmmaker
 main_text_area: ''
 
 ---
 ### **Once you see**
 
-**Then you know.** 
+**You will know**
 
-Change happens when we can see a show a better future
+Change happens when we can show a better future
 
 Once collective creates concept films to inspire tribes to grow around new ideas.
 
-Our films take complex solutions and show what matters to the right people. 
+Our films take complex solutions and show what matters to the right people.
 
 By combining talents in storytelling, film and animation with brand, marketing and content strategy we create visions that inspire movement.
 
 ### **Work as if the dream is our own**
 
-  
-We align the whole with the individual
+> We align the whole with the individual
 
- and the individual with the whole. 
+> and the individual with the whole.
 
-The structure of the collective guides members towards their purpose and creates a sharing economy and support structure to achieve these goals. 
+The structure of the collective guides members towards their purpose and creates a sharing economy and support structure to achieve these goals.
 
-Honest feedback keeps us growing in every project we do. 
+Honest feedback keeps us growing in every project we do.
+
+### Content for a new landscape
+
+We keep our ears to the floor and fingers on the pulse of tomorrow. 
+
+We take elements of psychology, the latest marketing strategies and emerging technologies to inform our process of film-making. 
+
+Concept films are the bridge from imagination to reality.
