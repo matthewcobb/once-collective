@@ -32,7 +32,7 @@ By combining talents in storytelling, film and animation with brand, marketing a
 
 > We align the whole with the individual
 
-> and the individual with the whole.
+>    and the individual with the whole.
 
 The structure of the collective guides members towards their purpose and creates a sharing economy and support structure to achieve these goals.
 
