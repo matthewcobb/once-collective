@@ -32,16 +32,16 @@ By combining talents in storytelling, film and animation with brand, marketing a
 
 > We align the whole with the individual
 
->    and the individual with the whole.
+> and the individual with the whole.
 
-The structure of the collective guides members towards their purpose and creates a sharing economy and support structure to achieve these goals.
+The structure of the collective guides members towards their purpose creating a sharing economy and support structure to achieve these goals.
 
-Honest feedback keeps us growing in every project we do.
+Honest feedback all around keeps us growing in every project we do.
 
 ### Content for a new landscape
 
 **Ears to the floor. Fingers on the pulse.**
 
-We take elements of psychology, latest marketing strategies and emerging technologies to inform our process of film-making. 
+We take elements of psychology, latest marketing strategies and emerging technologies to inform our process of film-making.
 
 Our concept films bridge imagination to reality.
