@@ -16,8 +16,6 @@ members:
 main_text_area: ''
 
 ---
-<meta name="google-site-verification" content="mWHyM7H_GxlmyQuVHO-6yylZ8UIRmbzuqNoIt-9MSQQ" />
-
 ### **Once you see**
 
 **You will know**
