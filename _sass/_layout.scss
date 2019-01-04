@@ -32,6 +32,7 @@ header {
   box-sizing: border-box;
   width: 100%;
   overflow: hidden;
+  max-height: 1024px;
   &.hero {
     background: #1a1a1a;
     color: $white-base;

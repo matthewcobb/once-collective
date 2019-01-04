@@ -1,18 +1,5 @@
 $(document).ready(function() {
 
-  $('.placeholder, .play-button').click(function() {
-    // Fade out
-    $('.placeholder').fadeOut();
-    $('.play-button').fadeOut();
-    $('.learn-more').fadeOut();
-    var iframe = document.createElement( "iframe" );
-    iframe.setAttribute( "frameborder", "0" );
-    iframe.setAttribute( "allowfullscreen", "" );
-    iframe.setAttribute( "src", "https://www.youtube.com/embed/lOfH89SYESE?rel=0&vq=hd1080&showinfo=0&autoplay=1" );
-
-    $(".youtube").append( iframe );
-  });
-
   // Fixed nav on scroll
   $(window).bind('scroll', function () {
     if ($(window).scrollTop() > 84) {
