@@ -14,6 +14,7 @@ members:
   name: Federico Lanzarotta
   title: Filmmaker | Photographer | Designer
 main_text_area: ''
+embed_url: https://www.youtube.com/embed/lOfH89SYESE?rel=0&vq=hd1080&showinfo=0&autoplay=1
 
 ---
 ### **Once you see**
