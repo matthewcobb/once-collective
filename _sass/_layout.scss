@@ -32,18 +32,22 @@ header {
   box-sizing: border-box;
   width: 100%;
   overflow: hidden;
+  height: 100%;
   max-height: 1024px;
+  @include bp(md) {
+    height: initial;
+    padding-bottom: 50%;
+  }
   &.hero {
     background: #1a1a1a;
     color: $white-base;
-    height: 100%;
     border: $_2em solid $white-base;
-    padding: 0;
 
     nav {
       padding: $_4em;
       width: 100%;
       left: 0;
+      top: 0;
       right: 0;
       position: absolute;
     }
@@ -78,7 +82,7 @@ header {
       iframe {
         background: #1a1a1a;
         position:absolute;
-        left:-10%;top:-10%;overflow:hidden;z-index:auto;height:120%;width:120%
+        left:-10%;top:-10%;overflow:hidden;z-index:auto;height:120%;width:120%;
       }
     }
   }
