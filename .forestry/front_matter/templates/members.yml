@@ -3,6 +3,12 @@ label: Homepage
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  name: embed_url
+  label: Embed URL
+  config:
+    required: true
+  default: https://www.youtube.com/embed/lOfH89SYESE?rel=0&vq=hd1080&showinfo=0&autoplay=1
 - type: field_group_list
   name: members
   label: Members
@@ -19,11 +25,5 @@ fields:
   - type: text
     name: url
     label: URL
-- type: text
-  name: embed_url
-  label: Embed URL
-  config:
-    required: true
-  default: https://www.youtube.com/embed/lOfH89SYESE?rel=0&vq=hd1080&showinfo=0&autoplay=1
 pages:
 - index.md
