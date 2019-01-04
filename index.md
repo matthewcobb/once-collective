@@ -35,7 +35,9 @@ By combining talents in storytelling, film and animation with branding, marketin
 
 > and the individual with the whole.
 
-The structure of the collective guides members towards their purpose by creating a sharing economy and support structure to achieve these goals. This means the work we do is always purpose driven.
+The structure of the collective guides members towards their purpose by creating a sharing economy and support structure to achieve these goals.
+
+This means the work we do is always purpose driven.
 
 Honest feedback throughout keeps us growing in every project we do.
 
