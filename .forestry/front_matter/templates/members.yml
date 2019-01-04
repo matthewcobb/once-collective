@@ -24,5 +24,6 @@ fields:
   label: Embed URL
   config:
     required: true
+  default: https://www.youtube.com/embed/lOfH89SYESE?rel=0&vq=hd1080&showinfo=0&autoplay=1
 pages:
 - index.md
