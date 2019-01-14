@@ -5,7 +5,7 @@ is_partial: false
 fields:
 - type: text
   name: title
-  label: SEO Title
+  label: title
 - type: text
   name: seo_description
   label: SEO Description
