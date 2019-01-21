@@ -14,7 +14,7 @@
   </head>
 
   <body>
-    <header class="hero">
+    <header class="hero responsive">
       <nav class="grid justify-between no-response">
         <div class="cell-md-4 hidden-until-md">
           <a href="{{ site.baseurl }}/">
@@ -49,14 +49,35 @@
           <div class="cell-md-8">
             {{ content }}
           </div>
-          <div class="cell-md-6 hidden-until-md text-center">
-            <image src="{{ site.baseurl }}/images/logo.png" />
+          <div class="cell-md-6 space-top-xs-lg space-top-md-none text-center">
+            <image src="{{ site.baseurl }}/images/logo.png" class="hidden-until-md"/>
+            <h4 class="space-top-xs-md space-top-md-xl">Connect with us</h4>
+            <div class="grid no-response space-top-xs-lg">
+              <div class="cell">
+                <a href="https://facebook.com/OnceCollectiveEurope" target="_blank">
+                  <image src="{{ site.baseurl }}/images/facebook.svg" width="48"/></br>
+                  Facebook
+                </a>
+              </div>
+              <div class="cell">
+                <a href="https://twitter.com/once_collective" target="_blank">
+                  <image src="{{ site.baseurl }}/images/twitter.svg" width="48"/></br>
+                  Twitter
+                </a>
+              </div>
+              <div class="cell">
+                <a href="http://instagram.com/once.collective" target="_blank">
+                  <image src="{{ site.baseurl }}/images/instagram.svg" width="48"/></br>
+                  Instagram
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="slider flush-bottom">
+    <section class="slider flush-top flush-bottom">
       <div class="content text-center">
         <h5>Meet our members</h5>
       </div>
@@ -69,6 +90,7 @@
             <a href="{{ member.url }}" target="_blank">
               <h4>{{ member.name }}</h4>
               <p class="small">{{ member.title }}</p>
+            
             </a>
           </div>
         {% endfor %}
@@ -111,7 +133,28 @@
 
     <footer class="row-black">
       <div class="content">
-        ONCE COLLECTIVE ©2018
+        <div class="grid justify-between no-response">
+          <div class="cell">
+            ONCE COLLECTIVE ©2018
+          </div>
+          <div class="cell-shrink grid gutter-xs-lg">
+            <div class="cell">
+              <a href="https://facebook.com/OnceCollectiveEurope" target="_blank">
+                <image src="{{ site.baseurl }}/images/facebook-white.svg" width="32"/>
+              </a>
+            </div>
+            <div class="cell">
+              <a href="https://twitter.com/once_collective" target="_blank">
+                <image src="{{ site.baseurl }}/images/twitter-white.svg" width="32"/>
+              </a>
+            </div>
+            <div class="cell">
+              <a href="http://instagram.com/once.collective" target="_blank">
+                <image src="{{ site.baseurl }}/images/instagram-white.svg" width="32"/>
+              </a>
+            </div>
+          </div>
+        </div>
       </div>
     </footer>
 

@@ -11,7 +11,15 @@ html, body {
   box-sizing: border-box;
 }
 
+.content-thin {
+  max-width: 600px;
+  padding: 0 $_2em;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
 section {
+  border-radius: 4px;
   padding: $_3em 0;
   @include bp(sm) {
     padding: $_8em 0;
@@ -19,8 +27,11 @@ section {
   &.flush-bottom {
     padding-bottom: 0;
   }
+  &.flush-top {
+    padding-top: 0;
+  }
   &.row-black {
-    background: $black-base;
+    background: #1a1a1a;
     color: $white-base;
     margin: 0 $_2em;
   }
@@ -32,17 +43,21 @@ header {
   box-sizing: border-box;
   width: 100%;
   overflow: hidden;
-  height: 100%;
   max-height: 1024px;
-  @include bp(md) {
-    height: initial;
-    padding-bottom: 50%;
+  border-radius: 4px;
+  &.responsive {
+    height: 100%;
+    @include bp(md) {
+      height: initial;
+      padding-bottom: 50%;
+    }
   }
+
   &.hero {
     background: #1a1a1a;
     color: $white-base;
     border: $_2em solid $white-base;
-
+    border-radius: 4px;
     nav {
       padding: $_4em;
       width: 100%;
@@ -110,28 +125,22 @@ header {
       vertical-align: top;
       white-space: initial;
       display: inline-block;
-      background: $grey-fade;
       margin: $_2em 0 $_2em $_2em ;
       padding-bottom: $_1em;
       width: 250px;
-      text-align: center;
-      transform: scale(1.0);
-      transition: all 0.4s ease;
       @include bp(md) {
-        width: 360px;
+        width: 300px;
+        margin: $_2em 0 $_6em $_6em ;
       }
       &:last-of-type {
         margin-right: $_2em;
       }
-      &:hover {
-        transform: scale(1.02);
-        box-shadow: 0 8px 20px rgba(0,0,0,0.5);
-      }
       .img-container {
         position: relative;
         height: 300px;
+        border-radius: 4px;
         @include bp(md) {
-          height: 500px;
+          height: 400px;
         }
         overflow: hidden;
       }
@@ -156,13 +165,13 @@ header {
 }
 
   footer {
+    border-radius: 4px;
     padding: $_4em 0;
     border-left: $_2em solid $white-base;
     border-right: $_2em solid $white-base;
     border-bottom: $_2em solid $white-base;
-    text-align: center;
     &.row-black {
-      background: $black-base;
+      background: #1a1a1a;
       color: $white-base;
     }
   }
