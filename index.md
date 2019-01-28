@@ -35,11 +35,11 @@ By combining talents in storytelling, film and animation with branding, marketin
 
             and the individual with the whole.
 
-The structure of the Collective guides members towards their purpose by creating a sharing economy and support structure to achieve their goals.
+The structure of the Collective guides members towards their purpose through a sharing economy and support structure to achieve their goals.
 
-This means any of the work we do is always purpose driven. 
+This means all the work we do is purpose driven. 
 
-Honest feedback in our process keeps everyone growing in the projects we do.
+Honest feedback in our process keeps everyone growing in the projects they do.
 
 ### Content for a new landscape
 
@@ -47,4 +47,4 @@ Honest feedback in our process keeps everyone growing in the projects we do.
 
 We take elements of psychology, emerging technologies and the latest marketing strategies to inform our process in creating new content.
 
-Our concept films bridge the gap between imagination to reality.
+Our concept films bridge the gap from imagination to reality.
