@@ -15,31 +15,31 @@ members:
   title: Filmmaker | Photographer | Designer
 main_text_area: ''
 embed_url: https://www.youtube.com/embed/lOfH89SYESE?rel=0&vq=hd1080&showinfo=0&autoplay=1
+title: ''
+seo_description: ''
 
 ---
 ### **Once you see**
 
-**You will know**
+Change happens when we can show a better future.
 
-Change happens when we can show a better future
+Once Collective creates concept films to inspire tribes to grow around new ideas.
 
-Once collective creates concept films to inspire tribes to grow around new ideas.
+Our films condense complex solutions down to what matters to the right people.
 
-Our films take complex solutions and condense them down to show what matters to the right people.
-
-By combining talents in storytelling, film and animation with branding, marketing and content strategy we create visions that inspire movement around an idea.
+By combining talents in storytelling, film and animation with branding, marketing and content strategy, we create visions that inspire movement around an idea.
 
 ### **Work as if the dream is our own**
 
-> We align the whole with the individual
+         We align the whole with the individual
 
-> and the individual with the whole.
+            and the individual with the whole.
 
-The structure of the collective guides members towards their purpose by creating a sharing economy and support structure to achieve these goals.
+The structure of the Collective guides members towards their purpose by creating a sharing economy and support structure to achieve their goals.
 
-This means the work we do is always purpose driven.
+This means any of the work we do is always purpose driven. 
 
-Honest feedback throughout keeps us growing in every project we do.
+Honest feedback in our process keeps everyone growing in the projects we do.
 
 ### Content for a new landscape
 
