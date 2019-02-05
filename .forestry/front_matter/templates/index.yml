@@ -7,7 +7,7 @@ fields:
   name: title
   label: title
 - type: text
-  name: seo_description
+  name: excerpt
   label: SEO Description
 - type: text
   name: embed_url
