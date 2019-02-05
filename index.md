@@ -35,13 +35,11 @@ By combining talents in storytelling, film and animation with branding, marketin
 
 ### **Work as if the dream is our own**
 
-         We align the whole with the individual
-
-            and the individual with the whole.
+> We align the whole with the individual and the individual with the whole.
 
 The structure of the Collective guides members towards their purpose through a sharing economy and support structure to achieve their goals.
 
-This means all the work we do is purpose driven. 
+This means all the work we do is purpose driven.
 
 Honest feedback in our process keeps everyone growing in the projects they do.
 
