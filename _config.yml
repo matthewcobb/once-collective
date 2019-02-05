@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 name: Once Collective
-description: A collective of people
+description: Share your vision, make it real.
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 disqus:
 google_analytics:
