@@ -1,21 +1,21 @@
 ---
 layout: index
 members:
-- mugshot: "/uploads/PICK.jpg"
-  name: James Beale
-  title: Business Development
 - mugshot: "/uploads/alex.jpg"
   name: Alex Kennedy
   title: Director
 - mugshot: "/uploads/image-1.jpg"
   name: Juanita Villalobos
   title: Project Manager
-- mugshot: "/uploads/terrace.jpg"
-  name: Marco Naletto
-  title: 'Composer | Sound Engineer '
+- mugshot: "/uploads/PICK.jpg"
+  name: James Beale
+  title: Business Development
 - mugshot: "/uploads/ladder.jpg"
   name: Federico Lanzarotta
   title: Filmmaker | Photographer | Designer
+- mugshot: "/uploads/terrace.jpg"
+  name: Marco Naletto
+  title: 'Composer | Sound Engineer '
 main_text_area: ''
 embed_url: https://www.youtube.com/embed/lOfH89SYESE?rel=0&vq=hd1080&showinfo=0&autoplay=1
 title: Once Collective Home
