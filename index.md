@@ -25,13 +25,13 @@ excerpt: Share in your visions. Show them reality
 ---
 ### **Once you see**
 
-Change happens when we can show a better future.
+Change is driven through curation of inspiring visions for our future.
 
 Once Collective creates concept films to inspire tribes to grow around new ideas.
 
-Our films condense complex solutions down to what matters to the right people.
+We take complex solutions and condense them into a visual narrative that matters to the right people.
 
-By combining talents in storytelling, film and animation with branding, marketing and content strategy, we create visions that inspire movement around an idea.
+By combining talents in storytelling, film and animation with branding, marketing and content strategy we create visions that generate big movements. 
 
 ### **Work as if the dream is our own**
 
@@ -41,12 +41,12 @@ The structure of the Collective guides members towards their purpose through a s
 
 This means all the work we do is purpose driven.
 
-Honest feedback in our process keeps everyone growing in the projects they do.
+Honest feedback throughout our process keeps everyone on the path to higher collaboration. 
 
 ### Content for a new landscape
 
-**Ears to the floor. Fingers on the pulse.**
+**We see the trends. Because we are one.**
 
-We take elements of psychology, emerging technologies and the latest marketing strategies to inform our process in creating new content.
+We take elements of psychology, emerging technologies and the latest marketing strategies to inform our process for creating new content.
 
 Our concept films bridge the gap from imagination to reality.
