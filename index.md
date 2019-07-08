@@ -17,10 +17,6 @@ members:
   name: Federico Lanzarotta
   title: Filmmaker | Photographer | Designer
   url: ''
-- mugshot: "/uploads/terrace.jpg"
-  name: Marco Naletto
-  title: 'Composer | Sound Engineer '
-  url: ''
 main_text_area: ''
 embed_url: https://www.youtube.com/embed/A6RLit5Bzgo?rel=0&vq=hd1080&showinfo=0&autoplay=1
 title: Once Collective Home
