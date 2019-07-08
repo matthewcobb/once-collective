@@ -4,20 +4,25 @@ members:
 - mugshot: "/uploads/alex.jpg"
   name: Alex Kennedy
   title: Director
+  url: ''
 - mugshot: "/uploads/image-1.jpg"
   name: Juanita Villalobos
   title: Project Manager
+  url: ''
 - mugshot: "/uploads/PICK.jpg"
   name: James Beale
   title: Business Development
+  url: ''
 - mugshot: "/uploads/ladder.jpg"
   name: Federico Lanzarotta
   title: Filmmaker | Photographer | Designer
+  url: ''
 - mugshot: "/uploads/terrace.jpg"
   name: Marco Naletto
   title: 'Composer | Sound Engineer '
+  url: ''
 main_text_area: ''
-embed_url: https://www.youtube.com/embed/lOfH89SYESE?rel=0&vq=hd1080&showinfo=0&autoplay=1
+embed_url: https://www.youtube.com/embed/A6RLit5Bzgo?rel=0&vq=hd1080&showinfo=0&autoplay=1
 title: Once Collective Home
 seo_description: Share your visions, make it real.
 excerpt: Share in your visions. Show them reality
