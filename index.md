@@ -1,15 +1,19 @@
 ---
 layout: index
 members:
+- mugshot: ''
+  name: ''
+  title: ''
+  url: ''
 - mugshot: "/uploads/alex.jpg"
   name: Alex Kennedy
   title: Director
   url: ''
-- mugshot: "/uploads/image-1.jpg"
+- mugshot: "/uploads/DSC07200.jpg"
   name: Juanita Villalobos
   title: Project Manager
   url: ''
-- mugshot: "/uploads/PICK.jpg"
+- mugshot: "/uploads/JAMESPICK(09October19)00377.jpg"
   name: James Beale
   title: Business Development
   url: ''
