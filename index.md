@@ -1,10 +1,6 @@
 ---
 layout: index
 members:
-- mugshot: ''
-  name: ''
-  title: ''
-  url: ''
 - mugshot: "/uploads/alex.jpg"
   name: Alex Kennedy
   title: Director
@@ -32,7 +28,7 @@ Once Collective creates concept films to inspire tribes to grow around new ideas
 
 We take complex solutions and condense them into a visual narrative that matters to the right people.
 
-By combining talents in storytelling, film and animation with branding, marketing and content strategy we create visions that generate big movements. 
+By combining talents in storytelling, film and animation with branding, marketing and content strategy we create visions that generate big movements.
 
 ### **Work as if the dream is our own**
 
@@ -42,7 +38,7 @@ The structure of the Collective guides members towards their purpose through a s
 
 This means all the work we do is purpose driven.
 
-Honest feedback throughout our process keeps everyone on the path to higher collaboration. 
+Honest feedback throughout our process keeps everyone on the path to higher collaboration.
 
 ### Content for a new landscape
 

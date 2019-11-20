@@ -6,9 +6,12 @@ html, body {
 
 .content {
   max-width: 1024px;
-  padding: 0 $_4em;
+  padding: 0 $_2em;
   margin: 0 auto;
   box-sizing: border-box;
+  @include bp(sm) {
+    padding: 0 $_4em;
+  }
 }
 
 .content-thin {
@@ -19,7 +22,6 @@ html, body {
 }
 
 section {
-  border-radius: 4px;
   padding: $_3em 0;
   @include bp(sm) {
     padding: $_8em 0;
@@ -33,7 +35,6 @@ section {
   &.row-black {
     background: #1a1a1a;
     color: $white-base;
-    margin: 0 $_2em;
   }
 }
 
@@ -44,7 +45,6 @@ header {
   width: 100%;
   overflow: hidden;
   max-height: 1024px;
-  border-radius: 4px;
   &.responsive {
     height: 100%;
     @include bp(md) {
@@ -56,8 +56,6 @@ header {
   &.hero {
     background: #1a1a1a;
     color: $white-base;
-    border: $_2em solid $white-base;
-    border-radius: 4px;
     nav {
       padding: $_4em;
       width: 100%;
@@ -111,7 +109,7 @@ header {
       text-transform: uppercase;
       text-decoration: none;
       letter-spacing: 1px;
-      font-weight: 900;
+      font-weight: 500;
     }
   }
 }
@@ -167,9 +165,6 @@ header {
   footer {
     border-radius: 4px;
     padding: $_4em 0;
-    border-left: $_2em solid $white-base;
-    border-right: $_2em solid $white-base;
-    border-bottom: $_2em solid $white-base;
     &.row-black {
       background: #1a1a1a;
       color: $white-base;
