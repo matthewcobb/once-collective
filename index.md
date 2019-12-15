@@ -22,13 +22,13 @@ excerpt: Share in your visions. Show them reality
 ---
 ### **Once you see**
 
-Change is driven through curation of inspiring visions for our future.
+We drive change and direction through curating inspiring visions for our future through design and video.
 
-Once Collective creates concept films to inspire tribes to grow around new ideas.
+Once Collective creates concept films that inspire tribes to grow around new ideas. Giving a north star to a community or organisation we can gradually revive our collective imagination in whats possible. 
 
 We take complex solutions and condense them into a visual narrative that matters to the right people.
 
-By combining talents in storytelling, film and animation with branding, marketing and content strategy we create visions that generate big movements.
+By combining talents in storytelling, film and animation with branding, marketing and content strategy we create visualised ideals that generate the emotion needed for a movement.
 
 ### **Work as if the dream is our own**
 
