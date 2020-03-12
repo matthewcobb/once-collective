@@ -33,9 +33,9 @@ When you align with a wider audience on your goal, you can go there together.
 * knowledge and ideas
 * our stories and our selves
 
-#### We use video to condense broad organisations, brands or ideas into digestible, interactive concepts.
+### We use video to condense broad organisations, brands or ideas into digestible, interactive concepts.
 
-##### We know **branding** for audiences, **marketing strategy, film production**, **photography**, **motion graphics and VFX**.
+##### We know branding for audiences, marketing strategy, film production, photography, motion graphics and VFX.
 
 Based on the needs of the project our network of trusted partners and freelancers can expand into the surrounding fields of:
 
