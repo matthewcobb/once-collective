@@ -20,7 +20,7 @@ Once Collective creates concept films that show the world your vision, mission a
 
 When you align with a wider audience on your goal, you can go there together.
 
-> **Concept films are short, sharable videos that encapsulate an organisation, mission or idea.** 
+> **Concept films are short, sharable videos that encapsulate an organisation, mission or idea.**
 
 ### **A new type of organisation for the future we need.**
 
@@ -35,7 +35,7 @@ When you align with a wider audience on your goal, you can go there together.
 
 #### We use video to condense broad organisations, brands or ideas into digestible, interactive concepts.
 
-###### We know **branding** for audiences, **marketing strategy, film production**, **photography**, **motion graphics and VFX**.
+##### We know **branding** for audiences, **marketing strategy, film production**, **photography**, **motion graphics and VFX**.
 
 Based on the needs of the project our network of trusted partners and freelancers can expand into the surrounding fields of:
 
