@@ -34,3 +34,5 @@ The team is backed up by the wider network for consultation so any cross-discipl
 * The collective guides members towards their goals and aligns them towards projects that support their development.
 * Talents and interests can be explored through contribution that builds social capitol. Redeemable when you find that true calling.
 * Creativity and ideas flow through the network with a pool of shared insights with tools for implementation at your fingertips.
+
+# We are here to revive our collective imagination
