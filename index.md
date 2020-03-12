@@ -51,3 +51,5 @@ Based on the needs of the project our network of trusted partners and freelancer
 **Full Discovery** : With deep brand and content strategy our solutions are based on the true fundamental problem at hand.
 
 **Team Curation:** We work on longer prep times to book out the perfect team for the project.
+
+[Learn more about how we work](https://app.forestry.io/sites/k1vm29uv3dy66g/#/pages/how-do-we-work-md/ "how we work")
