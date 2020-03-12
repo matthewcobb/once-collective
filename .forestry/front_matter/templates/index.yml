@@ -31,4 +31,5 @@ fields:
     name: url
     label: URL
 pages:
+- how-do-we-work.md
 - index.md
