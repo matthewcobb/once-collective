@@ -52,4 +52,4 @@ Based on the needs of the project our network of trusted partners and freelancer
 
 **Team Curation:** We work on longer prep times to book out the perfect team for the project.
 
-[Learn more about how we work](https://app.forestry.io/sites/k1vm29uv3dy66g/#/pages/how-do-we-work-md/ "how we work")
+# We are here to revive our collective imagination
