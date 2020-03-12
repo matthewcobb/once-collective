@@ -20,7 +20,9 @@ Once Collective creates concept films that show the world your vision, mission a
 
 When you align with a wider audience on your goal, you can go there together.
 
-### **A new type of organisation for a new kind of future.**
+> **Concept films are short, sharable videos that encapsulate an organisation, mission or idea.** 
+
+### **A new type of organisation for the future we need.**
 
 **We are a trust network of purpose driven freelancers that share everything.**
 
