@@ -22,17 +22,6 @@ When you align with a wider audience on your goal, you can go there together.
 
 > **Concept films are short, sharable videos that encapsulate an organisation, mission or idea.**
 
-### **A new type of organisation for the future we need.**
-
-**We are a trust network of purpose driven freelancers that share everything.**
-
-* needs and opportunities
-* networks and experience
-* goals and ambitions
-* talents and skills
-* knowledge and ideas
-* our stories and our selves
-
 ### We use video to condense broad organisations, brands or ideas into digestible, interactive concepts.
 
 ##### We know branding for audiences, marketing strategy, film production, photography, motion graphics and VFX.
@@ -53,5 +42,21 @@ Based on the needs of the project our network of trusted partners and freelancer
 **Full Discovery** : With deep brand and content strategy our solutions are based on the true fundamental problem at hand.
 
 **Team Curation:** We work on longer prep times to book out the perfect team for the project.
+
+### **A new type of organisation for the future we need.**
+
+**We are a trust network of purpose driven freelancers that share everything:**
+
+* needs and opportunities
+* networks and experience
+* goals and ambitions
+* talents and skills
+* knowledge and ideas
+* our stories and ourselves
+
+Through Once our members are enabled to create a life of **Freedom**, **Community** and **Purpose**. 
+
+We do this by providing sovereignty in a **mental**, **physical**, **social** and **digital sense**.   
+[Sign up here](https://eba2k6g4.paperform.co/ "Collective Member form") to find out more. 
 
 # We are here to revive our collective imagination
