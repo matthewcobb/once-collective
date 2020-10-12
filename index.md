@@ -54,9 +54,9 @@ Based on the needs of the project our network of trusted partners and freelancer
 * knowledge and ideas
 * our stories and ourselves
 
-Through Once our members are enabled to create a life of **Freedom**, **Community** and **Purpose**. 
+Once enables it's members to create a life of **Freedom**, **Community** and **Purpose**.
 
-We do this by providing sovereignty in a **mental**, **physical**, **social** and **digital sense**.   
-[Sign up here](https://eba2k6g4.paperform.co/ "Collective Member form") to find out more. 
+We do this by providing the environment for sovereignty in a **mental**, **physical**, **social** and **digital sense**.  
+[Sign up here](https://eba2k6g4.paperform.co/ "Collective Member form") to find out more.
 
 # We are here to revive our collective imagination
