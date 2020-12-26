@@ -57,6 +57,8 @@ Based on the needs of the project our network of trusted partners and freelancer
 Once enables it's members to create a life of **Freedom**, **Community** and **Purpose**.
 
 We do this by providing the environment for sovereignty in a **mental**, **physical**, **social** and **digital sense**.  
-[Sign up here](https://eba2k6g4.paperform.co/ "Collective Member form") to find out more.
+Express interest in joining the community through [this form](https://eba2k6g4.paperform.co/ "Once Collective Signup Form"). 
 
 # We are here to revive our collective imagination
+
+[Tell me more about this thing.](https://www.notion.so/oncecollectivecore/ONCE-one-pager-e86861547cf6496f8aacff067f273e9f "Once One Pager")
